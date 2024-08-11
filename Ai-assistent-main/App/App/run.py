@@ -302,5 +302,5 @@ for text in lisen():
             seconds = time.time()
             seconds_last = time.ctime(seconds)
             print('AI: ' + l[32:-57] + f" \n {seconds_last}")
-            #utils.tts.va_speak(l[32:-57])
+            utils.tts.va_speak(l[32:-57])
             break
