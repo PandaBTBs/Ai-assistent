@@ -1,4 +1,4 @@
-# Assistant-2.0-program-
+# Assistant+Ai -program-
 
 ## change the links in the files and place the vosk model in utils!
 
